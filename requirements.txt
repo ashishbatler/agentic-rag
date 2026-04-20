@@ -1,0 +1,9 @@
+langchain
+langgraph
+psycopg2-binary
+pgvector
+sentence-transformers
+fastapi
+uvicorn
+openai
+python-dotenv

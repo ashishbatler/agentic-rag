@@ -17,6 +17,14 @@ An advanced Retrieval-Augmented Generation system using LangGraph, hybrid retrie
 - OpenAI
 - FastAPI
 
+## .env file under agentic-rag folder
+
+DB_NAME=rag_db
+DB_USER=postgres
+DB_PASSWORD=
+DB_HOST=localhost
+OPENAI_API_KEY=yourKey
+
 ## Setup
 ```bash
 pip install -r requirements.txt
